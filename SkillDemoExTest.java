@@ -8,7 +8,7 @@ public class SkillDemoExTest {
 
     @Test 
     public void subtract() {
-        assertEquals(2, SkillDemoEx.subtract(4, 3));
+        assertEquals(2, SkillDemoEx.subtract(4, 2));
     }
     
 }
